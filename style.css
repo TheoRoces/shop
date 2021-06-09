@@ -35,7 +35,7 @@ section.top-page
 {
     display: flex;
     flex-direction: column;
-    background: url("images/Nos_plantes/70ppi/bgbonnetFichier\ 12.png");
+    background: url("./images/Nos_plantes/70ppi/bgbonnetFichier\ 12.png");
     background-size: cover;
     background-position: center center;
     height: 80vh;
@@ -176,22 +176,22 @@ nav.navmenu li a
 
 .plant1
 {
-    background-image: url("images/Nos_plantes/70ppi/bonnet11Fichier\ 13.png");
+    background-image: url("./images/Nos_plantes/70ppi/bonnet11Fichier\ 13.png");
 }
 
 .plant2
 {
-    background-image: url("images/Nos_plantes/70ppi/bonnet12Fichier\ 14.png");
+    background-image: url("./images/Nos_plantes/70ppi/bonnet12Fichier\ 14.png");
 }
 
 .plant3
 {
-    background-image: url("images/Nos_plantes/70ppi/bonnet13Fichier\ 15.png");
+    background-image: url("./images/Nos_plantes/70ppi/bonnet13Fichier\ 15.png");
 }
 
 .plant4
 {
-    background-image: url("images/Nos_plantes/70ppi/bonnet14Fichier\ 16.png");
+    background-image: url("./images/Nos_plantes/70ppi/bonnet14Fichier\ 16.png");
 }
 
 .plant-details
@@ -235,40 +235,40 @@ nav.navmenu li a
 
 .plant-grid1
 {
-    background-image: url(images/Nos_plantes/70ppi/bonnet15Fichier\ 17.png);
+    background-image: url(./images/Nos_plantes/70ppi/bonnet15Fichier\ 17.png);
     grid-column: 1/3;
     grid-row: 1/3;
 }
 
 .plant-grid2
 {
-    background-image: url(images/Nos_plantes/70ppi/bonnet16Fichier\ 18.png);
+    background-image: url(./images/Nos_plantes/70ppi/bonnet16Fichier\ 18.png);
     grid-column: 3/5;
 }
 
 .plant-grid3
 {
-    background-image: url(images/Nos_plantes/70ppi/bonnet13Fichier\ 15.png);
+    background-image: url(./images/Nos_plantes/70ppi/bonnet13Fichier\ 15.png);
     grid-column: 3/5;
 }
 
 .plant-grid4
 {
-    background-image: url(images/Nos_plantes/70ppi/bonnet12Fichier\ 14.png);
+    background-image: url(./images/Nos_plantes/70ppi/bonnet12Fichier\ 14.png);
     grid-column: 1;
     grid-row: 3/5;
 }
 
 .plant-grid5
 {
-    background-image: url(images/Nos_plantes/70ppi/bonnet14Fichier\ 16.png);
+    background-image: url(./images/Nos_plantes/70ppi/bonnet14Fichier\ 16.png);
     grid-column: 2/4;
     grid-row: 3/5;
 }
 
 .plant-grid6
 {
-    background-image: url(images/Nos_plantes/70ppi/bonnet11Fichier\ 13.png);
+    background-image: url(./images/Nos_plantes/70ppi/bonnet11Fichier\ 13.png);
     grid-column: 4;
     grid-row: 3/5;
 }
